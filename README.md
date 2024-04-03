@@ -32,8 +32,7 @@ Before running the project, ensure you have the following installed:
 •	Web browser (Chrome, Firefox, Safari, etc.)
 Installation
 1.	Clone the repository:
-bashCopy code
-git clone https://github.com/BejjenkiAakash/Coding-Raja-Technologies-web-development-task-2-music-player-
+git clone https://github.com/BejjenkiAakash/Coding-Raja-Technologies-web-development-task-2-music-player-.git
 
 2. Navigate to project Directory cd Coding-Raja-Technologies-web-development-task-2-music-player-
 
